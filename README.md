@@ -1,6 +1,6 @@
 # BugTracker-Athenas-WoW-Pandaria-
 
-Sitio oficial para reportar errores dentro de Athenas-WoW 4.3.4.
+Sitio oficial para reportar errores dentro de Athenas-WoW 5.4.8.
 Aporte realizado por el Sr. Dennis y el Sr. Albert.
 
 ## Guía de uso:
